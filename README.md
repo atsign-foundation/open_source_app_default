@@ -3,7 +3,7 @@
 ### Now for a little internet optimism
 
 # Template README
-This is template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the @platform.
+This is a template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the @platform.
 
 ## App Overview
 Start with an overview of your app. Open with intent - we welcome contributions - we want pull requests and to hear about issues.
@@ -18,7 +18,7 @@ This is where you give developers and designers guidance on how they can contrib
 ## Installation & Dependencies
 Are there specific installation requirements for your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
 
-Install Dart: https://dart.dev/get-dart
+Install Dart: https://dart.dev/get-dart <br>
 Install Flutter: https://docs.flutter.dev/get-started/install
 
 
@@ -35,9 +35,6 @@ Are the links to other parts of the project correct
 (beware stuff carried over from previous repos where the
 project might have lived during earlier development)?
 
-### Description
-
-Has the Description field been filled out?
 
 ### Acknowledgement/Attribution
 
