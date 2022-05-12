@@ -2,41 +2,27 @@
 
 ### Now for a little internet optimism
 
-# Sample README
+# Template README
+This is template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See () as an example open-source project built on the @platform.
 
-Open with intent - we welcome contributions - we want pull requests and to hear about issues.
+## App Overview
+Start with an overview of your app. Open with intent - we welcome contributions - we want pull requests and to hear about issues.
 
 ## Who is this for?
-
 The README should be addressed to somebody who's never seen this before.
 But also don't assume that they're a novice.
 
-### Code user
+## How to Contribute
+This is where you give developers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
 
-Does this repo publish to [pub.dev](https://pub.dev) or similar?
-In which case the code user just needs a pointer there - e.g. [at_client on pub.dev](https://pub.dev/packages/at_client)
+## Installation & Dependencies
+Are there specific installation requirements for your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
 
-### Contributor
+Install Dart: https://dart.dev/get-dart
+Install Flutter: https://docs.flutter.dev/get-started/install
 
-This is the person who we want working with us here.
-[CONTRIBUTING.md](CONTRIBUTING.md) is going to have the detailed guidance on how to setup their tools,
-tests and how to make a pull request.
 
-## Why, What, How?
-
-### Why?
-
-What is the purpose of this project?
-
-### What?
-
-What is needed to get the project and its dependencies installed?
-
-### How?
-
-How does this work? How is this used to fulfil its intended purpose?
-
-## Checklist
+## Checklist for your README
 
 ### Writing
 
