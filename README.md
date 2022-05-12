@@ -13,7 +13,7 @@ The README should be addressed to somebody who's never seen this before.
 But also don't assume that they're a novice.
 
 ## How to Contribute
-This is where you give developers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
+This is where you give developers and designers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
 
 ## Installation & Dependencies
 Are there specific installation requirements for your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
