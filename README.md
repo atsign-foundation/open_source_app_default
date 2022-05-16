@@ -11,11 +11,11 @@ This is a template repository specifically for open-source app maintainers, with
 4. Set up app starter code for your project (see Setting up Template Code).
 
 ## Setting up Template Code
-The @ Company has created app starter code (at_app - developed by Xavier Chanthavong) for new projects. Proceed these steps to generate this code in your repository. See this page for more details (https://pub.dev/packages/at_app/example)
+The @ Company has created app starter code (`at_app` - developed by Xavier Chanthavong) for new projects. Proceed these steps to generate this code in your repository. See this page for more details (https://pub.dev/packages/at_app/example)
 1. On your local terminal, `cd` into your repository's directory
-2. Activate the latest version of at_app: dart pub global activate at_app
-3. Generate starter code in the current directory: at_app create .
-4. If you receive this error message (Warning: Pub installs executables into $HOME/.pub-cache/bin, which is not on your path), then run the following command in your terminal, then re-run the command from step #3: export PATH="$PATH":"$HOME/.pub-cache/bin"
+2. Activate the latest version of at_app: `dart pub global activate at_app`
+3. Generate starter code in the current directory: `at_app create .`
+4. If you receive this error message (`Warning: Pub installs executables into $HOME/.pub-cache/bin`, which is not on your path), then run the following command in your terminal, then re-run the command from step #3: `export PATH="$PATH":"$HOME/.pub-cache/bin"`
 
 
 
