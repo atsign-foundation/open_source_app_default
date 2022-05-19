@@ -34,6 +34,9 @@ This is where you give developers and designers guidance on how they can contrib
 ### Clarify Installation & Dependencies
 Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
 
+## Why The @platform
+If you are building your app on the @platform, provide a description for developers on why you are using this technology. See some of our other projects (Priv@teFit: https://github.com/atsign-foundation/privatefit) for an example of this.
+
 ### Writing
 
 Does the writing flow, with proper grammar and correct spelling?
