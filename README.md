@@ -1,7 +1,7 @@
 ### Now for a little internet optimism
 
 # Template README
-This is a template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the @platform.
+This is a template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the @platform. This template was created by Sahil Mehta (Sahil-Mehta881), based on an archetype repo developed by Chris Swan (cpswan).
 
 
 ## Setting up Your Repo
