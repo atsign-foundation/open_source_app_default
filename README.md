@@ -11,7 +11,7 @@ This is a template repository specifically for open-source app maintainers, with
 4. Set up app starter code for your project (see Setting up Template Code).
 
 ## Setting up Template Code
-The @ Company has created app starter code (`at_app` - developed by Xavier Chanthavong) for new projects. Proceed these steps to generate this code in your repository. See this page for more details (https://pub.dev/packages/at_app/example)
+Atsign has created app starter code (`at_app` - developed by Xavier Chanthavong) for new projects. Proceed these steps to generate this code in your repository. See this page for more details (https://pub.dev/packages/at_app/example)
 1. On your local terminal, `cd` into your repository's directory
 2. Activate the latest version of at_app: `dart pub global activate at_app`
 3. If you receive this error message (`Warning: Pub installs executables into $HOME/.pub-cache/bin, which is not on your path.`), then run the following command in your terminal, then re-run step #2: `export PATH="$PATH":"$HOME/.pub-cache/bin"`
@@ -32,7 +32,7 @@ But also don't assume that they're a novice.
 This is where you give developers and designers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
 
 ### Clarify Installation & Dependencies
-Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
+Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the atPlatformrequire installation of Flutter and Dart. 
 
 ## Why The @platform
 If you are building your app on the @platform, provide a description for developers on why you are using this technology. See some of our other projects (Priv@teFit: https://github.com/atsign-foundation/privatefit) for an example of this.
