@@ -32,7 +32,7 @@ But also don't assume that they're a novice.
 This is where you give developers and designers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
 
 ### Clarify Installation & Dependencies
-Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the atPlatformr equire installation of Flutter and Dart. 
+Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the atPlatform require installation of Flutter and Dart. 
 
 ## Why The atPlatform
 If you are building your app on the atPlatform, provide a description for developers on why you are using this technology. See some of our other projects (Priv@teFit: https://github.com/atsign-foundation/privatefit) for an example of this.
