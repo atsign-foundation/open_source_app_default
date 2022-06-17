@@ -1,7 +1,7 @@
 ### Now for a little internet optimism
 
 # Template README
-This is a template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the @platform. This template was created by Sahil Mehta (Sahil-Mehta881), based on an archetype repo developed by Chris Swan (cpswan).
+This is a template repository specifically for open-source app maintainers, with code (at_app), contributing guides, and packages. You can fork this repo to launch your open-source project. See (github.com/atsign-foundation/privatefit) as an example open-source project built on the atPlatform. This template was created by Sahil Mehta (Sahil-Mehta881), based on an archetype repo developed by Chris Swan (cpswan).
 
 
 ## Setting up Your Repo
@@ -32,10 +32,10 @@ But also don't assume that they're a novice.
 This is where you give developers and designers guidance on how they can contribute to code. Normally, the repo should have issues for developers to work on and submit pull requests for.
 
 ### Clarify Installation & Dependencies
-Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the atPlatformrequire installation of Flutter and Dart. 
+Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the atPlatformr equire installation of Flutter and Dart. 
 
-## Why The @platform
-If you are building your app on the @platform, provide a description for developers on why you are using this technology. See some of our other projects (Priv@teFit: https://github.com/atsign-foundation/privatefit) for an example of this.
+## Why The atPlatform
+If you are building your app on the atPlatform, provide a description for developers on why you are using this technology. See some of our other projects (Priv@teFit: https://github.com/atsign-foundation/privatefit) for an example of this.
 
 ### Writing
 
